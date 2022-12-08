@@ -1,0 +1,29 @@
+figcaption {
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+
+}
+a:link { 
+    text-decoration: none;
+}
+a:visited { 
+  text-decoration: none; 
+}
+a:hover { 
+  text-decoration: none; 
+  }
+a:active { 
+  text-decoration: none; 
+}
+
+p {
+    font-family:monospace;
+    font-size: 25px;
+}
+
+a {
+  font-family:monospace;
+  font-size: 20px;
+}
